@@ -17,8 +17,8 @@
 Honestly this one had me stumped for awhile. This is what I started off with.
 My final solution came from the second image; the code all the way to the right.
 
-![bst-level-order](./bst-level-order1)
-![bst-level-order2](./bst-level-order2)
+![bst-level-order](./bst-level-order.jpg)
+![bst-level-order2](./bst-level-order2.jpg)
 
 It was actually very simple but I was thinking about it too much.
 At first I instantly wanted to do recursion but quickly found out
